@@ -1,2 +1,2 @@
 # TestSpringForPipeline
-test app for github actions
+test app for github actio
